@@ -26,7 +26,7 @@ function Landing({ socket, myPlayer }) {
   return (
     <div className="page-container flex-center">
       <div className="glass-panel" style={{ width: '100%', maxWidth: '800px' }}>
-        <h1 className="title">The Bureaucracy Game</h1>
+        <h1 className="title">The Assimilation Game</h1>
         <p className="subtitle">Choose your role to begin</p>
         
         <div className="grid-cols-2">
