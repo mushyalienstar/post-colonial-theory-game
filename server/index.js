@@ -81,6 +81,8 @@ const conventionsList = [
   "You cannot use the words 'No,' 'Not,' or 'Don't.' You must phrase everything positively.",
   "The last word of your request must rhyme with your own name.",
   "You must start every sentence with a long, overly formal greeting (e.g., 'O Great and Powerful Leader of the Modern World...').",
+  "You must clap once after every five words.",
+  "You must memorize your request and say it in one go. (will be nice)"
 ];
 
 const AUTHORITY_PASSWORD = "Hippo12$";
